@@ -8,9 +8,9 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://www.google.com/search?sca_esv=568775834&sxsrf=AM9HkKl6VWvOvcC6Z55d6xxslt81wfM1Yg:1695827644115&q=information+structure+and+retrieval+images&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj0oc-iisuBAxXbIDQIHc79DwoQ0pQJegQIDhAB&biw=1406&bih=687&dpr=2#imgrc=CI5sdoRND3zuyM&imgdii=P_WYaY_H6L_B5M
+featured-image: /downloads/com541.jpeg
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em
+home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
