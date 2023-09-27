@@ -8,9 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-wkyph&psig=AOvVaw0CMr_8eeGYbUEVqCkAqKr1&ust=1695916238439000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOih2u27y4EDFQAAAAAdAAAAABAE
-# optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 12em
+featured-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stiernholm.com%2Fen%2Fblog%2Ffive-ways-to-sort-things&psig=AOvVaw1qVjRJISe_F7pqd1PaJS_r&ust=1695928249736000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNjjiJm_y4EDFQAAAAAdAAAAABAc
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
