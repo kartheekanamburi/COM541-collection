@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /downloads/com541.jpeg
+featured-image: https://as2.ftcdn.net/v2/jpg/01/22/41/37/1000_F_122413789_hrw1oebwilwcnKqNIdEsEngugKNHSfGz.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em
 # optional: change position of background image, center, top, bottom
