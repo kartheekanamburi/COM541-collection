@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: https://www.usfhealthonline.com/wp-content/uploads/sites/2/2022/09/Database-Theory-1024x768.jpeg
 home-banner-image-position:  Default is center
-
+home-title-y-padding: 12em
 ##########
 # ITEM PAGE
 #
