@@ -8,8 +8,8 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image:https://w0.peakpx.com/wallpaper/727/362/HD-wallpaper-utilizing-data-structures-and-information-tools-for-networking-in-business-and-cybersecurity-network-information-tools-cybersecurity-data.jpg
-home-banner-image-position: # Default is center
+featured-image: https://www.usfhealthonline.com/wp-content/uploads/sites/2/2022/09/Database-Theory-1024x768.jpeg
+home-banner-image-position:  Default is center
 
 ##########
 # ITEM PAGE
